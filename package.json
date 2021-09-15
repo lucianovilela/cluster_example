@@ -1,0 +1,14 @@
+{
+  "name": "cluster_example",
+  "version": "1.0.0",
+  "main": "index.js",
+  "repository": "https://github.com/lucianovilela/cluster_example.git",
+  "author": "lucianovilela <lucianovilela@gmail.com>",
+  "license": "MIT",
+  "scripts": {
+    "start": "nodemon index.js"
+  },
+  "devDependencies": {
+    "nodemon": "^2.0.12"
+  }
+}
